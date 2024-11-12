@@ -4,7 +4,7 @@
 *Task 1: Cleaning and Structuring the Marketing List*
 *In the first part of the project, I’m tasked with working on a marketing list for my growing business. The application I use to collect customer information has generated the list in an awkward format, with some data containing errors and missing values. My goal is to write a Python program that:*
 - *Takes the messy customer data as input.*
-- *Separates the data into proper columns and rows, organizing it in a structured format.
+- *Separates the data into proper columns and rows, organizing it in a structured format.*
 - *Cleans up any errors or missing values (such as incorrect email addresses, phone numbers, or incomplete fields).*
 - *Exports the cleaned-up data into a CSV file, which is a commonly used format for storing structured data.*
 *I’ll use Python’s libraries like pandas to read, manipulate, and clean the data, ensuring that it’s ready for further analysis or use in marketing campaigns.*
